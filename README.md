@@ -1,18 +1,17 @@
 # rhino-consumer
+
 Project for testing rhino, have setup already for react-query, react-hook-forms, react-router, axios.
 
-Install dependencies:
-yarn
+Install dependencies: </br>
+<strong>yarn</strong>
 
-Start the project:
-yarn run dev
+Start the project: </br>
+<strong>yarn run dev</strong>
 
-Initialize reno:
+Initialize reno: </br>
+<strong>npx rhino -h</strong>
+<strong>npx rhino -i</strong>
+<strong>npx rhino -f tag -c Tag -d Tag -u Tag -a Tag</strong>
 
-npx rhino -h
-
-npx rhino -i
-
-npx rhino -f tag -c Tag -d Tag -u Tag -a Tag
-
-Add your imports, and you are good to go.
+Fix import errors, and you are good to go.
+(Auto imports coming soon. . .)
