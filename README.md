@@ -8,9 +8,9 @@ Install dependencies: </br>
 Start the project: </br>
 <strong>yarn run dev</strong>
 
-Initialize reno: </br>
-<strong>npx rhino -h</strong> </br>
+Initialize rhino: </br>
 <strong>npx rhino -i</strong> </br>
+Generate tag feature: </br>
 <strong>npx rhino -f tag -c Tag -d Tag -u Tag -a Tag</strong> </br>
 
 Fix import errors, and you are good to go. </br>
