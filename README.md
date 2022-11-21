@@ -9,9 +9,9 @@ Start the project: </br>
 <strong>yarn run dev</strong>
 
 Initialize reno: </br>
-<strong>npx rhino -h</strong>
-<strong>npx rhino -i</strong>
-<strong>npx rhino -f tag -c Tag -d Tag -u Tag -a Tag</strong>
+<strong>npx rhino -h</strong> </br>
+<strong>npx rhino -i</strong> </br>
+<strong>npx rhino -f tag -c Tag -d Tag -u Tag -a Tag</strong> </br>
 
-Fix import errors, and you are good to go.
+Fix import errors, and you are good to go. </br>
 (Auto imports coming soon. . .)
