@@ -2,8 +2,8 @@
 
 Project for testing rhino, have setup already for react-query, react-hook-forms, react-router, axios.
 
+makes sure you update our library version, in package json file. because with every new version something is fixed.<br />
 Install dependencies: </br>
-makes sure you update our library version, in package json file. because with every new version something is fixed.
 <strong>yarn</strong>
 
 Start the project: </br>
