@@ -1093,10 +1093,10 @@ proxy-from-env@^1.1.0:
   resolved "https://registry.yarnpkg.com/proxy-from-env/-/proxy-from-env-1.1.0.tgz#e102f16ca355424865755d2c9e8ea4f24d58c3e2"
   integrity sha512-D+zkORCbA9f1tdWRK0RaCR3GPv50cMxcrz4X8k5LTSUD1Dkw47mKJEZQNunItRTkWwgtaUSo1RVFRIG9ZXiFYg==
 
-react-crud-generator@1.0.46:
-  version "1.0.46"
-  resolved "https://registry.yarnpkg.com/react-crud-generator/-/react-crud-generator-1.0.46.tgz#c21ab1838fc419db5240a07fdf731bc55cc7d3df"
-  integrity sha512-DKXKceBc/j7BQDhvrarNfAafdTN6gDl76ToAWb7ZdF404A52YNLbJL7vwck3Nb631c1k/RpfC6wfQOcehoRwEQ==
+react-crud-generator@1.0.54:
+  version "1.0.54"
+  resolved "https://registry.yarnpkg.com/react-crud-generator/-/react-crud-generator-1.0.54.tgz#a076fb4aef16d2617936b734ed2af6ed4b26dd9d"
+  integrity sha512-CNXq6cO0NKou+AN9vzKLeOFLJ+5zH36d6dm27lc0NzJbVxVf3vMHNhwXcufiDvNWnj5g6qo+4TtqghZ9eGTNxg==
   dependencies:
     "@types/fs-extra" "^9.0.13"
     commander "^9.4.1"

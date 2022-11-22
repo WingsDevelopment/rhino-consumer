@@ -1,6 +1,5 @@
-import { lazy } from "react";
-import { useRoutes } from "react-router-dom";
-import { tagRouteObject } from "../features/tag/routes/TagRoutes";
+import { ElementType, lazy, Suspense } from "react";
+import { Navigate, useRoutes } from "react-router-dom";
 
 // ----------------------------------------------------------------------
 
@@ -10,8 +9,7 @@ export default function RRouter() {
       path: "",
       children: [{ path: "", element: <Home /> }],
     },
-    { ...tagRouteObject },
   ]);
 }
 
-const Home = lazy(() => import("../pages/Home"));
+const Home = lazy(() => import("../../pages/Home"));
